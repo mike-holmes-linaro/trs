@@ -17,6 +17,7 @@ Prerequisites
 
             $ sudo apt update
             $ sudo apt install git
+            $ sudo apt install git
 
     .. tab:: Arch Linux
 
